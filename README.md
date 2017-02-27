@@ -5,3 +5,4 @@ Data Structures | Link to the problems                                 | My Code
 ----------------|------------------------------------------------------|------------
 Stack           |https://www.hackerrank.com/challenges/maximum-element | [Click here](./stacks/1.py)
 Huffman Tree    |https://en.wikipedia.org/wiki/Huffman_coding          | [Click here](./Huffman Tree/treee.py)
+Sparse Matrix   |https://en.wikipedia.org/wiki/Sparse_matrix|[Click here](./Sparse_Matrix/sparse_csr.py)
